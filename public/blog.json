@@ -1,0 +1,53 @@
+[
+    {
+      "id": 1,
+      "author_name": "John Doe",
+      "author_img": "https://i.ibb.co/ZNbTWsL/21-45387-3.jpg",
+      "cover_img": "https://i.ibb.co/Yy9hhtb/anastase-maragos-rtsvif-Rf-BJk-unsplash.jpg",
+      "posted_date": "2023-09-23",
+      "reading_time": "10 mins",
+      "title": "The Art of Programming",
+      "hashtags": ["programming", "coding", "development"]
+    },
+    {
+      "id": 2,
+      "author_name": "Alice Smith",
+      "author_img": "https://i.ibb.co/vdXjJbK/1662403142786.jpg",
+      "cover_img": "https://i.ibb.co/5TfFsZx/christina-deravedisian-7hs-NO61-NWY0-unsplash.jpg",
+      "posted_date": "2023-09-22",
+      "reading_time": "8 mins",
+      "title": "Exploring Machine Learning Algorithms",
+      "hashtags": ["machine learning", "algorithms", "data science"]
+    },
+    {
+      "id": 3,
+      "author_name": "David Brown",
+      "author_img": "https://i.ibb.co/wghgkXT/DSC-0042.jpg",
+      "cover_img": "https://i.ibb.co/h9d8tWg/greg-rakozy-o-Mp-Az-DN-9-I-unsplash.jpg",
+      "posted_date": "2023-09-21",
+      "reading_time": "15 mins",
+      "title": "A Guide to Web Development",
+      "hashtags": ["web development", "HTML", "CSS", "JavaScript"]
+    },
+    {
+      "id": 4,
+      "author_name": "Emily Johnson",
+      "author_img": "https://i.ibb.co/SfTcnHQ/IMG-08032021-001323-300-x-400-pixel.jpg",
+      "cover_img": "https://i.ibb.co/X2qPMPD/marek-piwnicki-ohx-GSbv-OJE-unsplash.jpg",
+      "posted_date": "2023-09-20",
+      "reading_time": "12 mins",
+      "title": "The Future of Artificial Intelligence",
+      "hashtags": ["AI", "artificial intelligence", "future tech"]
+    },
+    {
+      "id": 5,
+      "author_name": "Michael White",
+      "author_img": "https://i.ibb.co/kHx5wHh/sa.jpg",
+      "cover_img": "https://i.ibb.co/N6JF15L/mohammadhosein-mohebbi-6dko-R1b4nt0-unsplash.jpg",
+      "posted_date": "2023-09-19",
+      "reading_time": "7 mins",
+      "title": "Mastering Data Analysis",
+      "hashtags": ["data analysis", "statistics", "data visualization"]
+    }
+  ]
+  
